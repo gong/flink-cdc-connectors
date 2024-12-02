@@ -19,6 +19,7 @@ on:
     branches:
       - master
       - release-*
+      - test-*
     paths-ignore:
       - 'docs/**'
       - 'README.md'
